@@ -1,0 +1,7 @@
+.classpath
+.idea/
+target/
+.project
+appium_test.iml
+.settings/
+.vscode/
